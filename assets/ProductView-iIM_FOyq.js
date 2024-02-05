@@ -1,0 +1,1 @@
+import{u as a,h as s,b as o,c as r,e as c,f as u,t as l,o as n}from"./index-s_fOa9vw.js";const m={__name:"ProductView",setup(d){const e=a();s();const t=o(e.params.id);return(i,p)=>(n(),r("div",null,[c(" 商品詳情 "),u("div",null," 使用商品詳情id去call單獨的產品資訊 "+l(t.value),1)]))}};export{m as default};
